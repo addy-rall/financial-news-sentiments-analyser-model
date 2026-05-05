@@ -2,7 +2,7 @@
 
 Fine-tuned DistilBERT model that classifies financial news into
 Bearish 🐻, Bullish 🐂, or Neutral 😐 sentiment.
-The model is deployed at https://webapp-model.vercel.app/
+The model is deployed at https://project-version2-3.onrender.com
 ## I have used a publicly available model to demonstrate the functioning of the model I have trained. 
 
 ## 📊 Dataset
